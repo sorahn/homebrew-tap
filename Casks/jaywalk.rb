@@ -1,6 +1,6 @@
 cask "jaywalk" do
-  version "2026.11.3"
-  sha256 "7a43e7df2d522b8e43170d4f85463339f6c2265b49bfbcbbf197eb13acb41a0d"
+  version "2026.11.4"
+  sha256 "672dec066f90762a574ad3ac85db6959011a8891aef745369c491547b2fb50f0"
 
   url "https://github.com/sorahn/jaywalk/releases/download/v#{version}/Jaywalk-#{version}-macos-arm64.dmg"
   name "Jaywalk"
